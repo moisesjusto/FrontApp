@@ -52,7 +52,6 @@ export default class App extends Component {
       //form
       Email: '',
       Password: ''
-
     }
   }
 
