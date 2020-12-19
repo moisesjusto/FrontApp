@@ -51,7 +51,9 @@ export default class App extends Component {
       User: [],
       //form
       Email: '',
-      Password: ''
+      Password: '',
+      //quitar
+      
     }
   }
 
